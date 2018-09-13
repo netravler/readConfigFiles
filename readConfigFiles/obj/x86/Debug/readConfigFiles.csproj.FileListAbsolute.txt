@@ -1,0 +1,8 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\bin\Debug\readConfigFiles.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\bin\Debug\readConfigFiles.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\obj\x86\Debug\readConfigFiles.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\obj\x86\Debug\readConfigFiles.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\obj\x86\Debug\readConfigFiles.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\obj\x86\Debug\readConfigFiles.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\readConfigFiles\readConfigFiles\obj\x86\Debug\readConfigFiles.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\readConfigFiles\readConfigFiles\obj\x86\Debug\readConfigFiles.csprojResolveAssemblyReference.cache
